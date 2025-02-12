@@ -1,4 +1,5 @@
 # Soccer Analysis
+![Image](https://github.com/user-attachments/assets/fd2d8c9c-01aa-4799-b132-e0201f603bff)
 
 This project is designed to analyze soccer videos by tracking player and ball movements, estimating camera movements, transforming views, and calculating speed and distance metrics. The output is an annotated video with detailed information about player positions, ball possession, and other metrics.
 
