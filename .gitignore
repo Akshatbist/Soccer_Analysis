@@ -1,7 +1,3 @@
-# Ignore input and output videos
-input_videos/
-output_videos/
-
 # Ignore stub files
 stubs/
 
