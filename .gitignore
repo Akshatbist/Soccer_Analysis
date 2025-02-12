@@ -2,9 +2,6 @@
 input_videos/
 output_videos/
 
-# Ignore model files
-models/
-
 # Ignore stub files
 stubs/
 
